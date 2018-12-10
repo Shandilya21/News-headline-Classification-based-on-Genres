@@ -3,7 +3,7 @@ Word vector representation using Pre trained Elmo Model
 This Model designed for word embedding from Deep Contextual representation of Language Model. Here we introduced a model that 
 will generate a word embedding by looking into the context.
 
-Requirements and packages/LibrarY:
+Requirements and packages/Library:
 * Python 3.5+
 * Tensorflow
 * Keras 

@@ -10,7 +10,6 @@ Requirements and packages/Library:
 * Numpy
 * Pandas
 
-Here we take 'News Headline' and its 'Category' along with its short description, so that the words are relatable with the headline. First we have to 
-classify on the basis of Headline and Short description and then qwe have created word embedding and trainable on the bags if words which undergo training.
+Here we take 'News Headline' and its 'Category' along with its short description. Here we need to classify the Headline based on its Category. There are total 22 catedory like "Entertainment","Politics","Sports" etc. Along with that Short description for formatting the headline and defining the headline properly.
 
 

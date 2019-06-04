@@ -9,7 +9,7 @@ will generate a word embedding by looking into the context.Here we take 'News He
 * Model_2 :  CNN -LSTM Model
 
 # Result:
-Genres includes Entertainmen, sports, movies, politics, business etc slong with other 22 classes with the 10000, raw text. we simulated our result with the following metrics: \ Precison\ recall \ F1-measure
+Genres includes Entertainmen, sports, movies, politics, business etc slong with other 22 classes with the 10000, raw text. we simulated our result with the following metrics: Precison, recall, F1-measure
 
 * Model_1 : Precison: 0.78, Recall: 0.77, F1-score : 0.783 
 * Model_2 : Precison : 0.83, Recall:0.81, F1_score : 0.846

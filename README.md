@@ -1,4 +1,4 @@
-# News Headline CLassfication based on Genres
+# News Headlines Classfication based on Genres
 
 This model which describes the genre based news headlines supervised clustering techniques for easy accessible of information 
 This Model designed for word embedding from Deep Contextual representation of Language Model. Here we introduced a model that 
